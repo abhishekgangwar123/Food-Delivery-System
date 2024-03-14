@@ -1,6 +1,6 @@
-## Zomato Clone: Your Food Delivery App
+## Your Food Delivery System
 
-**Zomato Clone is food delivery app clone; it's a journey into culinary discovery and a celebration of deliciousness. Get ready to tantalize your taste buds with Zomato Clone, a React and Redux-powered food delivery app that delivers delicious experiences straight to your fingertips.**
+**Food delivery System; it's a journey into culinary discovery and a celebration of deliciousness. Get ready to tantalize your taste buds with Zomato Clone, a React and Redux-powered food delivery app that delivers delicious experiences straight to your fingertips.**
 
 **Features:**
 
